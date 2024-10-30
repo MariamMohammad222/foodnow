@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278416630703",
+    "project_id": "fooodapp-c5ac4",
+    "storage_bucket": "fooodapp-c5ac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278416630703:android:a4c4c8db84a92257c3c55a",
+        "android_client_info": {
+          "package_name": "com.example.alhamdllelah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-9t8jzIefygFUFRkjIYTbF9asXOMxxn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
