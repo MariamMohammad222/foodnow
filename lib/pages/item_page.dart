@@ -1,11 +1,11 @@
+import 'package:alhamdllelah/fonts/fonts.dart';
+import 'package:alhamdllelah/models/itemburgermodel.dart';
+import 'package:alhamdllelah/pages/cart.dart';
+import 'package:alhamdllelah/pages/cartpage.dart';
+import 'package:alhamdllelah/pages/cartprovider.dart';
 import 'package:clippy_flutter/arc.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/models/itemburgermodel.dart';
-import 'package:foodnow/pages/cart.dart';
-import 'package:foodnow/pages/cartpage.dart';
-import 'package:foodnow/pages/cartprovider.dart';
-import 'package:foodnow/pages/home_page_mohamed.dart';
-import 'package:foodnow/views/fonts/fonts.dart';
+
 import 'package:provider/provider.dart';
 
 class ItemPage extends StatefulWidget {

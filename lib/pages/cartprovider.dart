@@ -1,7 +1,5 @@
+import 'package:alhamdllelah/models/itemburgermodel.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/models/itemburgermodel.dart';
-import 'package:foodnow/pages/cart.dart';
-import 'package:foodnow/pages/cartpage.dart';
 
 
 class CartProvider with ChangeNotifier {

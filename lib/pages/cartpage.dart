@@ -1,8 +1,8 @@
 
 
+import 'package:alhamdllelah/pages/cartprovider.dart';
+import 'package:alhamdllelah/pages/home_page_mohamed.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/pages/cartprovider.dart';
-import 'package:foodnow/pages/home_page_mohamed.dart';
 import 'package:provider/provider.dart';
 int sub_total=0;
 int total=0;

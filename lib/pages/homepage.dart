@@ -1,7 +1,8 @@
 
+import 'package:alhamdllelah/pages/loginpage.dart';
+import 'package:alhamdllelah/pages/signuppage.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/pages/loginpage.dart';
-import 'package:foodnow/pages/signuppage.dart';
+
 
 class homepage extends StatefulWidget {
    homepage({super.key});

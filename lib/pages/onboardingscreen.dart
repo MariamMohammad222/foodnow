@@ -1,9 +1,9 @@
 
+import 'package:alhamdllelah/models/model1.dart';
+import 'package:alhamdllelah/pages/homepage.dart';
+import 'package:alhamdllelah/widgets/widget1.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/models/model1.dart';
-import 'package:foodnow/pages/home_page_mohamed.dart';
-import 'package:foodnow/pages/homepage.dart';
-import 'package:foodnow/widgets/widget1.dart';
+
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class onboardingscreen extends StatefulWidget {

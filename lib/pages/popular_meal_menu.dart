@@ -1,6 +1,6 @@
+import 'package:alhamdllelah/pages/home_page_mohamed.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/pages/home_page_mohamed.dart';
-import 'package:foodnow/pages/profile_page.dart';
+
 import 'package:google_fonts/google_fonts.dart';
 
 class MealMenuPage extends StatelessWidget {

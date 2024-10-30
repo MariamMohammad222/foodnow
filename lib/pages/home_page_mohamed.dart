@@ -1,21 +1,20 @@
 import 'dart:core';
 
+import 'package:alhamdllelah/appUI/App.ui.dart';
+import 'package:alhamdllelah/fonts/fonts.dart';
+import 'package:alhamdllelah/models/categorymodel.dart';
+import 'package:alhamdllelah/models/itemburgermodel.dart';
+import 'package:alhamdllelah/models/listtilemodel.dart';
+import 'package:alhamdllelah/pages/cart.dart';
+import 'package:alhamdllelah/pages/itemcollection.dart';
+import 'package:alhamdllelah/pages/popular_meal_menu.dart';
+import 'package:alhamdllelah/pages/profile_page.dart';
+import 'package:alhamdllelah/widgets/category.dart';
+import 'package:alhamdllelah/widgets/customListTile.dart';
+import 'package:alhamdllelah/widgets/itemcardburger.dart';
 import 'package:card_swiper/card_swiper.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/models/categorymodel.dart';
-import 'package:foodnow/models/itemburgermodel.dart';
-import 'package:foodnow/models/itempizza.dart';
-import 'package:foodnow/models/itemsandawitch.dart';
-import 'package:foodnow/models/listtilemodel.dart';
-import 'package:foodnow/pages/cart.dart';
-import 'package:foodnow/pages/itemcollection.dart';
-import 'package:foodnow/pages/popular_meal_menu.dart';
-import 'package:foodnow/pages/profile_page.dart';
-import 'package:foodnow/views/appUI/App.ui.dart';
-import 'package:foodnow/views/fonts/fonts.dart';
-import 'package:foodnow/widgets/category.dart';
-import 'package:foodnow/widgets/customListTile.dart';
-import 'package:foodnow/widgets/itemcardburger.dart';
+
 import 'package:badges/badges.dart' as badges;
 
 class HomePage extends StatefulWidget {

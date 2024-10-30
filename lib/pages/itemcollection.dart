@@ -1,9 +1,8 @@
+import 'package:alhamdllelah/fonts/fonts.dart';
+import 'package:alhamdllelah/models/itemburgermodel.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/models/itemburgermodel.dart';
-import 'package:foodnow/models/itempizza.dart';
-import 'package:foodnow/views/fonts/fonts.dart';
-import 'package:foodnow/widgets/itemcardburger.dart';
+
 
 class itemcollectionscreen extends StatelessWidget {
    itemcollectionscreen({super.key,required this.itemburgermodel});

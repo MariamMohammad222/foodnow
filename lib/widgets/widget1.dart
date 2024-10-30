@@ -1,6 +1,7 @@
 
+import 'package:alhamdllelah/models/model1.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/models/model1.dart';
+
 
 class onboarding extends StatelessWidget {
    onboarding({super.key,required this.onb});

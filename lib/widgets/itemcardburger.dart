@@ -1,11 +1,10 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
+import 'package:alhamdllelah/fonts/fonts.dart';
+import 'package:alhamdllelah/models/itemburgermodel.dart';
+import 'package:alhamdllelah/pages/item_page.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
-import 'package:foodnow/models/itemburgermodel.dart';
-import 'package:foodnow/pages/cartpage.dart';
-import 'package:foodnow/pages/item_page.dart';
-import 'package:foodnow/views/fonts/fonts.dart';
 
 
 class itemcardburger extends StatefulWidget {

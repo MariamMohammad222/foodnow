@@ -1,8 +1,9 @@
+import 'package:alhamdllelah/appUI/App.ui.dart';
+import 'package:alhamdllelah/fonts/fonts.dart';
+import 'package:alhamdllelah/models/categorymodel.dart';
 import 'package:flutter/material.dart';
 
-import 'package:foodnow/models/categorymodel.dart';
-import 'package:foodnow/views/appUI/App.ui.dart';
-import 'package:foodnow/views/fonts/fonts.dart';
+
 
 class categoryitem extends StatefulWidget {
   Categorymodel categorymodel;

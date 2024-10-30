@@ -1,12 +1,13 @@
 
+import 'package:alhamdllelah/firebase_autho_/firebaseServices.dart';
+import 'package:alhamdllelah/firebase_autho_/showtoast.dart';
+import 'package:alhamdllelah/pages/home_page_mohamed.dart';
+import 'package:alhamdllelah/pages/onboardingscreen.dart';
+import 'package:alhamdllelah/widgets/widget2.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:foodnow/firebase_autho_/firebaseServices.dart';
-import 'package:foodnow/firebase_autho_/showtoast.dart';
-import 'package:foodnow/pages/home_page_mohamed.dart';
-import 'package:foodnow/pages/onboardingscreen.dart';
-import 'package:foodnow/widgets/widget2.dart';
+
 import 'package:google_sign_in/google_sign_in.dart';
 
 

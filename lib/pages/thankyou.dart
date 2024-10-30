@@ -1,9 +1,10 @@
 import 'dart:async';
 
+import 'package:alhamdllelah/pages/home_page_mohamed.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:foodnow/pages/home_page_mohamed.dart';
+
 class ThankYouScreen extends StatefulWidget {
   @override
   State<ThankYouScreen> createState() => _ThankYouScreenState();

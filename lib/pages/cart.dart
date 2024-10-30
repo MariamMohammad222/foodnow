@@ -1,9 +1,9 @@
 
+import 'package:alhamdllelah/models/itemburgermodel.dart';
+import 'package:alhamdllelah/pages/cartpage.dart';
+import 'package:alhamdllelah/pages/cartprovider.dart';
+import 'package:alhamdllelah/pages/thankyou.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/models/itemburgermodel.dart';
-import 'package:foodnow/pages/cartpage.dart';
-import 'package:foodnow/pages/cartprovider.dart';
-import 'package:foodnow/pages/thankyou.dart';
 import 'package:provider/provider.dart';
 int sub_total=25;
 int total=25;

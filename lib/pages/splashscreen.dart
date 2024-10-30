@@ -1,9 +1,9 @@
 import 'dart:async';
 
+import 'package:alhamdllelah/appUI/App.ui.dart';
+import 'package:alhamdllelah/pages/onboardingscreen.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/pages/onboardingscreen.dart';
-import 'package:foodnow/views/appUI/App.ui.dart';
-import 'package:foodnow/views/fonts/fonts.dart';
+
 import 'package:google_fonts/google_fonts.dart';
 
 

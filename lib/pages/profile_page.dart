@@ -1,11 +1,12 @@
+import 'package:alhamdllelah/pages/home_page_mohamed.dart';
+import 'package:alhamdllelah/pages/signuppage.dart';
 import 'package:flutter/material.dart';
-import 'package:foodnow/pages/home_page_mohamed.dart';
-import 'package:foodnow/pages/popular_meal_menu.dart';
+
 import 'package:line_awesome_flutter/line_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../widgets/build_info_row.dart';
 import 'edit_profile.dart';
-import 'package:foodnow/pages/signuppage.dart';
+
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});
